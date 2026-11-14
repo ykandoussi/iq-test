@@ -1,0 +1,556 @@
+{
+  "A1": {
+    "index": 3,
+    "answer": "zwemmen"
+  },
+  "A2": {
+    "index": 2,
+    "answer": "muziekstuk"
+  },
+  "A3": {
+    "index": 0,
+    "answer": "luchtdruk"
+  },
+  "A4": {
+    "index": 0,
+    "answer": "drinken"
+  },
+  "A5": {
+    "index": 0,
+    "answer": "school"
+  },
+  "A6": {
+    "index": 1,
+    "answer": "bladzijde"
+  },
+  "A7": {
+    "index": 0,
+    "answer": "tijd"
+  },
+  "A8": {
+    "index": 1,
+    "answer": "plant"
+  },
+  "A9": {
+    "index": 4,
+    "answer": "warmte"
+  },
+  "A10": {
+    "index": 0,
+    "answer": "miauwen"
+  },
+  "A11": {
+    "index": 3,
+    "answer": "roeren"
+  },
+  "A12": {
+    "index": 4,
+    "answer": "schrijven"
+  },
+  "S1": {
+    "index": 2,
+    "answer": "14"
+  },
+  "S2": {
+    "index": 0,
+    "answer": "48"
+  },
+  "S3": {
+    "index": 0,
+    "answer": "36"
+  },
+  "S4": {
+    "index": 1,
+    "answer": "17"
+  },
+  "S5": {
+    "index": 3,
+    "answer": "13"
+  },
+  "S6": {
+    "index": 2,
+    "answer": "36"
+  },
+  "S7": {
+    "index": 1,
+    "answer": "13"
+  },
+  "S8": {
+    "index": 4,
+    "answer": "67"
+  },
+  "S9": {
+    "index": 4,
+    "answer": "32"
+  },
+  "S10": {
+    "index": 0,
+    "answer": "85"
+  },
+  "S11": {
+    "index": 3,
+    "answer": "65"
+  },
+  "S12": {
+    "index": 0,
+    "answer": "21"
+  },
+  "S13": {
+    "index": 3,
+    "answer": "1"
+  },
+  "S14": {
+    "index": 0,
+    "answer": "50"
+  },
+  "S15": {
+    "index": 3,
+    "answer": "63"
+  },
+  "S16": {
+    "index": 2,
+    "answer": "17"
+  },
+  "S17": {
+    "index": 3,
+    "answer": "125"
+  },
+  "S18": {
+    "index": 4,
+    "answer": "26"
+  },
+  "S19": {
+    "index": 3,
+    "answer": "U"
+  },
+  "L1": {
+    "index": 0,
+    "answer": "Sommige planten hebben bladeren"
+  },
+  "L2": {
+    "index": 2,
+    "answer": "Dana"
+  },
+  "L3": {
+    "index": 1,
+    "answer": "Het kan geregend hebben, maar het is niet zeker"
+  },
+  "L4": {
+    "index": 3,
+    "answer": "14:30"
+  },
+  "L5": {
+    "index": 0,
+    "answer": "5"
+  },
+  "L6": {
+    "index": 4,
+    "answer": "55"
+  },
+  "L7": {
+    "index": 3,
+    "answer": "wortel"
+  },
+  "O1": {
+    "index": 3,
+    "answer": "zwaar"
+  },
+  "O2": {
+    "index": 1,
+    "answer": "juli"
+  },
+  "O3": {
+    "index": 4,
+    "answer": "tafel"
+  },
+  "O4": {
+    "index": 1,
+    "answer": "bureau"
+  },
+  "O5": {
+    "index": 4,
+    "answer": "48"
+  },
+  "M1": {
+    "index": 4,
+    "answer": "60 km/u"
+  },
+  "M2": {
+    "index": 0,
+    "answer": "€54"
+  },
+  "M3": {
+    "index": 0,
+    "answer": "5 minuten"
+  },
+  "M4": {
+    "index": 4,
+    "answer": "16"
+  },
+  "M5": {
+    "index": 3,
+    "answer": "750 g"
+  },
+  "M6": {
+    "index": 2,
+    "answer": "18"
+  },
+  "M7": {
+    "index": 0,
+    "answer": "€384"
+  },
+  "M8": {
+    "index": 3,
+    "answer": "14:12"
+  },
+  "M9": {
+    "index": 0,
+    "answer": "6 jaar"
+  },
+  "M10": {
+    "index": 3,
+    "answer": "6"
+  },
+  "M11": {
+    "index": 3,
+    "answer": "150 km"
+  },
+  "M12": {
+    "index": 0,
+    "answer": "1/4"
+  },
+  "M13": {
+    "index": 1,
+    "answer": "1/2"
+  },
+  "M14": {
+    "index": 3,
+    "answer": "40"
+  },
+  "M15": {
+    "index": 3,
+    "answer": "€1300"
+  },
+  "M16": {
+    "index": 0,
+    "answer": "34 cm"
+  },
+  "M17": {
+    "index": 3,
+    "answer": "70°"
+  },
+  "M18": {
+    "index": 2,
+    "answer": "5"
+  },
+  "M19": {
+    "index": 2,
+    "answer": "5/6"
+  },
+  "M20": {
+    "index": 1,
+    "answer": "36"
+  },
+  "M21": {
+    "index": 1,
+    "answer": "23"
+  },
+  "M22": {
+    "index": 3,
+    "answer": "x = 6"
+  },
+  "M23": {
+    "index": 2,
+    "answer": "6"
+  },
+  "M24": {
+    "index": 0,
+    "answer": "3/8"
+  },
+  "M25": {
+    "index": 4,
+    "answer": "8 dagen"
+  },
+  "M26": {
+    "index": 3,
+    "answer": "0,5"
+  },
+  "G1": {
+    "mode": "fwd",
+    "len": 4,
+    "scoring": "ingetypt moet gelijk zijn aan getoond"
+  },
+  "G2": {
+    "mode": "fwd",
+    "len": 5,
+    "scoring": "ingetypt moet gelijk zijn aan getoond"
+  },
+  "G3": {
+    "mode": "fwd",
+    "len": 6,
+    "scoring": "ingetypt moet gelijk zijn aan getoond"
+  },
+  "G4": {
+    "mode": "fwd",
+    "len": 7,
+    "scoring": "ingetypt moet gelijk zijn aan getoond"
+  },
+  "G5": {
+    "mode": "fwd",
+    "len": 8,
+    "scoring": "ingetypt moet gelijk zijn aan getoond"
+  },
+  "G6": {
+    "mode": "fwd",
+    "len": 9,
+    "scoring": "ingetypt moet gelijk zijn aan getoond"
+  },
+  "G7": {
+    "mode": "bwd",
+    "len": 3,
+    "scoring": "ingetypt moet gelijk zijn aan getoond, omgekeerd"
+  },
+  "G8": {
+    "mode": "bwd",
+    "len": 4,
+    "scoring": "ingetypt moet gelijk zijn aan getoond, omgekeerd"
+  },
+  "G9": {
+    "mode": "bwd",
+    "len": 5,
+    "scoring": "ingetypt moet gelijk zijn aan getoond, omgekeerd"
+  },
+  "G10": {
+    "mode": "bwd",
+    "len": 6,
+    "scoring": "ingetypt moet gelijk zijn aan getoond, omgekeerd"
+  },
+  "R1": {
+    "index": 0,
+    "answer": "r1"
+  },
+  "R2": {
+    "index": 0,
+    "answer": "r2"
+  },
+  "R3": {
+    "index": 3,
+    "answer": "r1"
+  },
+  "R4": {
+    "index": 1,
+    "answer": "r2"
+  },
+  "R5": {
+    "index": 2,
+    "answer": "r1"
+  },
+  "R6": {
+    "index": 3,
+    "answer": "r1"
+  },
+  "R7": {
+    "index": 4,
+    "answer": "r2"
+  },
+  "R8": {
+    "index": 3,
+    "answer": "r2"
+  },
+  "R9": {
+    "index": 0,
+    "answer": "r3"
+  },
+  "R10": {
+    "index": 0,
+    "answer": "r1"
+  },
+  "R11": {
+    "index": 4,
+    "answer": "r2"
+  },
+  "R12": {
+    "index": 3,
+    "answer": "r1"
+  },
+  "X1": {
+    "index": 2,
+    "answer": {
+      "s": 0,
+      "n": 2,
+      "f": 0,
+      "p": 0
+    }
+  },
+  "X2": {
+    "index": 4,
+    "answer": {
+      "s": 0,
+      "n": 0,
+      "f": 2,
+      "p": 0
+    }
+  },
+  "X3": {
+    "index": 4,
+    "answer": {
+      "s": 1,
+      "n": 0,
+      "f": 2,
+      "p": 0
+    }
+  },
+  "X4": {
+    "index": 1,
+    "answer": {
+      "s": 0,
+      "n": 2,
+      "f": 1,
+      "p": 0
+    }
+  },
+  "X5": {
+    "index": 3,
+    "answer": {
+      "s": 0,
+      "n": 0,
+      "f": 0,
+      "p": 0
+    }
+  },
+  "X6": {
+    "index": 2,
+    "answer": {
+      "s": 2,
+      "n": 1,
+      "f": 0,
+      "p": 1
+    }
+  },
+  "X7": {
+    "index": 1,
+    "answer": {
+      "s": 2,
+      "n": 0,
+      "f": 2,
+      "p": 0
+    }
+  },
+  "X8": {
+    "index": 0,
+    "answer": {
+      "s": 0,
+      "n": 2,
+      "f": 0,
+      "p": 0
+    }
+  },
+  "X9": {
+    "index": 1,
+    "answer": {
+      "s": 0,
+      "n": 1,
+      "f": 2,
+      "p": 0
+    }
+  },
+  "X10": {
+    "index": 0,
+    "answer": {
+      "s": 0,
+      "n": 1,
+      "f": 0,
+      "p": 1
+    }
+  },
+  "X11": {
+    "index": 4,
+    "answer": {
+      "s": 2,
+      "n": 1,
+      "f": 2,
+      "p": 2
+    }
+  },
+  "X12": {
+    "index": 1,
+    "answer": {
+      "s": 0,
+      "n": 2,
+      "f": 2,
+      "p": 1
+    }
+  },
+  "X13": {
+    "index": 2,
+    "answer": {
+      "s": 2,
+      "n": 0,
+      "f": 0,
+      "p": 2
+    }
+  },
+  "X14": {
+    "index": 3,
+    "answer": {
+      "s": 2,
+      "n": 1,
+      "f": 0,
+      "p": 2
+    }
+  },
+  "X15": {
+    "index": 0,
+    "answer": {
+      "s": 1,
+      "n": 0,
+      "f": 1,
+      "p": 0
+    }
+  },
+  "X16": {
+    "index": 3,
+    "answer": {
+      "s": 2,
+      "n": 2,
+      "f": 1,
+      "p": 1
+    }
+  },
+  "X17": {
+    "index": 2,
+    "answer": {
+      "s": 1,
+      "n": 2,
+      "f": 1,
+      "p": 1
+    }
+  },
+  "X18": {
+    "index": 0,
+    "answer": {
+      "s": 1,
+      "n": 2,
+      "f": 1,
+      "p": 2
+    }
+  },
+  "X19": {
+    "index": 4,
+    "answer": {
+      "s": 1,
+      "n": 0,
+      "f": 2,
+      "p": 0
+    }
+  },
+  "X20": {
+    "index": 3,
+    "answer": {
+      "s": 2,
+      "n": 1,
+      "f": 1,
+      "p": 1
+    }
+  }
+}
